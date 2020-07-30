@@ -1,0 +1,15 @@
+C:\azurerepos\arc.ops.web\Reporting\TelegramBotApi\src\Telegram.Bot.Api\bin\Debug\netcoreapp2.2\appsettings.json
+C:\azurerepos\arc.ops.web\Reporting\TelegramBotApi\src\Telegram.Bot.Api\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\azurerepos\arc.ops.web\Reporting\TelegramBotApi\src\Telegram.Bot.Api\bin\Debug\netcoreapp2.2\Telegram.Bot.Api.deps.json
+C:\azurerepos\arc.ops.web\Reporting\TelegramBotApi\src\Telegram.Bot.Api\bin\Debug\netcoreapp2.2\Telegram.Bot.Api.runtimeconfig.json
+C:\azurerepos\arc.ops.web\Reporting\TelegramBotApi\src\Telegram.Bot.Api\bin\Debug\netcoreapp2.2\Telegram.Bot.Api.runtimeconfig.dev.json
+C:\azurerepos\arc.ops.web\Reporting\TelegramBotApi\src\Telegram.Bot.Api\bin\Debug\netcoreapp2.2\Telegram.Bot.Api.dll
+C:\azurerepos\arc.ops.web\Reporting\TelegramBotApi\src\Telegram.Bot.Api\bin\Debug\netcoreapp2.2\Telegram.Bot.Api.pdb
+C:\azurerepos\arc.ops.web\Reporting\TelegramBotApi\src\Telegram.Bot.Api\obj\Debug\netcoreapp2.2\Telegram.Bot.Api.csprojAssemblyReference.cache
+C:\azurerepos\arc.ops.web\Reporting\TelegramBotApi\src\Telegram.Bot.Api\obj\Debug\netcoreapp2.2\Telegram.Bot.Api.RazorAssemblyInfo.cache
+C:\azurerepos\arc.ops.web\Reporting\TelegramBotApi\src\Telegram.Bot.Api\obj\Debug\netcoreapp2.2\Telegram.Bot.Api.RazorAssemblyInfo.cs
+C:\azurerepos\arc.ops.web\Reporting\TelegramBotApi\src\Telegram.Bot.Api\obj\Debug\netcoreapp2.2\Telegram.Bot.Api.AssemblyInfoInputs.cache
+C:\azurerepos\arc.ops.web\Reporting\TelegramBotApi\src\Telegram.Bot.Api\obj\Debug\netcoreapp2.2\Telegram.Bot.Api.AssemblyInfo.cs
+C:\azurerepos\arc.ops.web\Reporting\TelegramBotApi\src\Telegram.Bot.Api\obj\Debug\netcoreapp2.2\Telegram.Bot.Api.RazorTargetAssemblyInfo.cache
+C:\azurerepos\arc.ops.web\Reporting\TelegramBotApi\src\Telegram.Bot.Api\obj\Debug\netcoreapp2.2\Telegram.Bot.Api.dll
+C:\azurerepos\arc.ops.web\Reporting\TelegramBotApi\src\Telegram.Bot.Api\obj\Debug\netcoreapp2.2\Telegram.Bot.Api.pdb
